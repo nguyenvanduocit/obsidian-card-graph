@@ -11,6 +11,7 @@
     "importHelpers": true,
     "isolatedModules": true,
 	"strictNullChecks": true,
+	"checkJs": true, /* Report errors in .js files. */
     "lib": [
       "DOM",
       "ES5",
